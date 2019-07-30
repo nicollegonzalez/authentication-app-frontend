@@ -2,6 +2,11 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+//Authenication Stuff
+import Signup from './components/signup/SignUp';
+import Login from './components/login/Login'
+
+
 function App() {
   return (
     <div className="App">
